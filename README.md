@@ -37,7 +37,7 @@ Mình là một Kỹ sư Phát triển Backend với hơn 3 năm kinh nghiệm t
 #### ⚡ Kiến trúc, Tối ưu & Real-time (Performance & Scale)
 - **Message Queues & Caching:** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 - **Search & Big Data:** ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
-- **Communication Protocols:** WebSockets (Socket.io), WebRTC, SIP, Asynchronous processing.
+- **Communication Protocols:** WebSockets (Socket.io), Asynchronous processing.
 
 #### 💾 Cơ sở dữ liệu & Bảo mật (Databases & Security)
 - **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
