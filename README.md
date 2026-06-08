@@ -45,15 +45,6 @@ Mình là một Kỹ sư Phát triển Backend với hơn 3 năm kinh nghiệm t
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieunguyen196&show_icons=true&theme=tokyonight&count_private=true" alt="Hieu's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen196&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📬 Kết nối với mình (Connect with me)
 
 Nếu bạn muốn trao đổi về System Design, tối ưu Backend hoặc các cơ hội hợp tác phát triển dự án, đừng ngần ngại liên hệ với mình qua:
