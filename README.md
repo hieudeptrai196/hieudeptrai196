@@ -11,7 +11,7 @@
 
 ### 🚀 Giới thiệu bản thân
 
-Mình là một Kỹ sư Phát triển Backend với hơn 3 năm kinh nghiệm thực chiến trong việc thiết kế, xây dựng và tối ưu hóa các hệ thống có hiệu năng và độ sẵn sàng cao. Mình đam mê giải quyết các bài toán về xử lý bất đồng bộ, concurrency, tối ưu hóa database và tích hợp trí tuệ nhân tạo (AI/LLMs) vào các sản phẩm công nghệ cốt lõi.
+Mình là một Kỹ sư Phát triển Backend với hơn 3 năm kinh nghiệm trong việc thiết kế, xây dựng và tối ưu hóa các hệ thống có hiệu năng và độ sẵn sàng cao. Mình đam mê giải quyết các bài toán về xử lý bất đồng bộ, concurrency, tối ưu hóa database và tích hợp trí tuệ nhân tạo (AI/LLMs) vào các sản phẩm công nghệ cốt lõi.
 
 - 🔭 **Hiện tại:** Backend Developer tại **VNPT**
 - 🔥 **Thế mạnh:** Hệ thống kiến trúc phân tán (Distributed Systems), High-concurrency và Real-time Communication.
