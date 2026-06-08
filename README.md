@@ -52,7 +52,6 @@ Nếu bạn muốn trao đổi về System Design, tối ưu Backend hoặc các
 - **Website:** [hieunt.site](https://hieunt.site/)
 - **LinkedIn:** [linkedin.com/in/hieunguyen196](https://www.linkedin.com/in/hieunguyen196)
 - **Email:** [hieulatoi1962@gmail.com](mailto:hieulatoi1962@gmail.com)
-- **Phone:** 0834 778 196
 
 ---
 <p align="center">
